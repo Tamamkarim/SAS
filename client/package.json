@@ -1,6 +1,7 @@
 {
-  "name": "SAS",
+  "name": "sas",
   "version": "0.1.0",
+  "license": "",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
